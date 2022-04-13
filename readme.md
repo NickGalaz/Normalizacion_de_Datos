@@ -1,4 +1,4 @@
-# Desafio Opcional: Modelación y Normalización de Datos
+# Desafío Opcional: Modelación y Normalización de Datos
 
 ### Módulo 5
 ### Lenguaje de Consultas a una Base de Datos PostgreSQL
